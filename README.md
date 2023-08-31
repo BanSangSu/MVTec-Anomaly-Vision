@@ -1,4 +1,4 @@
-# MTVec-Anomaly-Vision
+# Anomaly Detection with Computer Vision
 
 ### **Computer Vision Anomaly Detection Algorithm Competition** <2022.04.01 ~ 2022.05.13> (Dacon)
 https://dacon.io/en/competitions/official/235894/overview/description
@@ -7,6 +7,7 @@ Private score(0.84268) 44th. 😋
 
 ## Summary
 - Model: EfficientNet B3 and B4
+- Dataset: [MVTec AD](https://www.mvtec.com/company/research/datasets/mvtec-ad)
 - Schedular: No schedular
 - Cross validation: K(5)-fold
 - Optimizer: AdamW
